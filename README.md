@@ -8,8 +8,9 @@ I'm a motivated developer with a strong desire to learn and grow. I approach pro
 
 **Programming Languages:**
 - HTML + CSS
-- JavaScript
+- JavaScript / TypeScript
 - Python
+- Shell / Bash
 - C#
 - Kotlin
 - C/C++ (Arduino)
@@ -34,7 +35,6 @@ I'm a motivated developer with a strong desire to learn and grow. I approach pro
 **Other:**
 - Git version control (GitHub / GitLab)
 - Azure DevOps
-- Wordpress
 
 ## 💼 Experience Includes
 - Full stack projects: React (frontend) + FastAPI (backend)
