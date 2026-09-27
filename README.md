@@ -33,6 +33,7 @@ I'm a motivated developer with a strong desire to learn and grow. I approach pro
 - Git
 - Azure DevOps
 - Ansible
+- Docker
 
 ## 💼 Experience Includes
 - Full stack projects: React (frontend) + FastAPI (backend)
