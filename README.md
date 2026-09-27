@@ -12,7 +12,6 @@ I'm a motivated developer with a strong desire to learn and grow. I approach pro
 - Shell / Bash
 - C#
 - Kotlin
-- C/C++ (Arduino)
 
 **Frontend:**
 - React
@@ -31,29 +30,23 @@ I'm a motivated developer with a strong desire to learn and grow. I approach pro
 - SQLite3
 
 **Other:**
-- Git version control (GitHub / GitLab)
+- Git
 - Azure DevOps
 - Ansible
 
 ## 💼 Experience Includes
 - Full stack projects: React (frontend) + FastAPI (backend)
 - IoT projects
+- IT Automation & Integrations
+- Linux Server Management & Administration
 - Websites, currently working on [Dentworks Website](https://dentworks.fi)
 - Working in Windows, macOS and Linux environments
 - Project management: documentation, using GitHub issues & PRs, sprint planning
 
-## 🎓 Education
-- 2024-Present | Bachelor of Engineering in Information and Communication Technology (Lapland UAS)
-- 2011-2014 | Vocational Qualification in Mechanical Engineering and Production Technology
-
 ## 🥇 Certificates
 - IT Essentials (Cisco)
 - CCNA: Introduction to Networks (Cisco)
-
-## 🚀 Other
-- Languages: Finnish (native), English (excellent), Swedish (basic)
-- In my free time I code, play guitar, and enjoy electronics and outdoor activities
-
+  
 ---
 
 💡 Learn more about me and my skills in my portfolio (portfolio is not always available for personal reasons):  
