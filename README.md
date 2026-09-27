@@ -7,7 +7,6 @@ I'm a motivated developer with a strong desire to learn and grow. I approach pro
 ## ⚙️ Tech Stack
 
 **Programming Languages:**
-- HTML + CSS
 - JavaScript / TypeScript
 - Python
 - Shell / Bash
@@ -20,7 +19,6 @@ I'm a motivated developer with a strong desire to learn and grow. I approach pro
 
 **Backend:**
 - FastAPI
-- Flask
 - REST APIs
 
 **Mobile:**
@@ -35,6 +33,7 @@ I'm a motivated developer with a strong desire to learn and grow. I approach pro
 **Other:**
 - Git version control (GitHub / GitLab)
 - Azure DevOps
+- Ansible
 
 ## 💼 Experience Includes
 - Full stack projects: React (frontend) + FastAPI (backend)
